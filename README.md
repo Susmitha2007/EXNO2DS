@@ -72,9 +72,9 @@ Multivariate Analysis
 
 ![Screenshot 2025-03-25 083320](https://github.com/user-attachments/assets/fb4cead2-e472-47e1-af9f-77b04643c840)
 
-Co-relation
-
 ![Screenshot 2025-03-25 083404](https://github.com/user-attachments/assets/ebcff8ec-30bd-4d0d-9c46-fe9dd5e2108e)
+
+Co-relation
 
 ![Screenshot 2025-03-25 083438](https://github.com/user-attachments/assets/61e7aa6e-779e-44ad-9299-3df2892dc2ba)
 
