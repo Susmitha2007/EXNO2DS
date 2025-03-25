@@ -66,9 +66,9 @@ Bivariate Analysis
 
 ![Screenshot 2025-03-25 083146](https://github.com/user-attachments/assets/9c4f46a6-4720-46c3-8730-97ec85d9ab42)
 
-Multivariate Analysis
-
 ![Screenshot 2025-03-25 083231](https://github.com/user-attachments/assets/bee2e44c-7e01-4127-b19e-2b48e88107ae)
+
+Multivariate Analysis
 
 ![Screenshot 2025-03-25 083320](https://github.com/user-attachments/assets/fb4cead2-e472-47e1-af9f-77b04643c840)
 
