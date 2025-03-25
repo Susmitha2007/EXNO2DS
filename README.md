@@ -54,9 +54,9 @@ Categorical data analysis
 
 ![Screenshot 2025-03-25 082752](https://github.com/user-attachments/assets/fd61f654-73f1-488e-ad2a-5e3875a2bdd8)
 
-Bivariate Analysis
-
 ![Screenshot 2025-03-25 082841](https://github.com/user-attachments/assets/ab20041a-c347-41ed-b5e3-be3e904c72b4)
+
+Bivariate Analysis
 
 ![Screenshot 2025-03-25 082931](https://github.com/user-attachments/assets/01554f7d-3d62-4fce-87c4-9cdae3886c94)
 
